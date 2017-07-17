@@ -8,11 +8,19 @@ header{
 	padding-left:20px;
 	padding-right:20px; 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 81ad8ca034b66555f571d89519d14180cc55f8f4
 }
 
 h1 {
     font-family: "Raleway", sans-serif;
+<<<<<<< HEAD
     color: white;
+=======
+    color: #0D2C40;
+>>>>>>> 81ad8ca034b66555f571d89519d14180cc55f8f4
     font-weight: 400;
     letter-spacing: 1px;
     font-weight: 400;
@@ -35,7 +43,12 @@ h2{
 	border-bottom: 2px solid transparent;
 	background-color: #00A6B3;
 	padding: 20px;
+<<<<<<< HEAD
 	margin: 0;
+=======
+	margin-top: 20px; 
+	margin-bottom: 20px;
+>>>>>>> 81ad8ca034b66555f571d89519d14180cc55f8f4
 }
 p {
   font-family: "Droid Serif", serif;
