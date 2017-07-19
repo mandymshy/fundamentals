@@ -102,8 +102,10 @@ float: left;
 	border-width: 1px;
 	border-radius: 10px;
     float: left;
-	margin: 8%;
+	margin: 1%;
 	background-image: url('images/back.png');
+	
+
 }
 /*
 .board {
