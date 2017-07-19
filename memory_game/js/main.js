@@ -1,4 +1,3 @@
-
 /*****CARD VALUES*****/
 
 var cards = ['queen', 'queen', 'king', 'king'];
@@ -41,10 +40,11 @@ function addCardsInPlay() {
 
 
 	if(this.getAttribute('data-card') === 'king'){
-		this.innerHTML = '<img src="images/king.png">';
+		this.innerHTML = '<img src="images/king-of-diamonds.png">';
 	} else {
-		this.innerHTML = '<img src="images/queen.png">';
+		this.innerHTML = '<img src="images/queen-of-hearts.png">';
 	}
+
 
 	cardsInPlay.push(this);
 		
@@ -89,7 +89,3 @@ for (var j = 0; j < cardElements.length; j++){
 	cardElements[j].addEventListener('click', addCardsInPlay);
 }
 
-    
-
-
- 
