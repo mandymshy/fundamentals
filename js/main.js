@@ -20,4 +20,9 @@ var cardFour = ("queen");
     console.log("User flipped " + cardOne);
 
 
+<<<<<<< HEAD
  
+=======
+  
+>>>>>>> 81ad8ca034b66555f571d89519d14180cc55f8f4
+>>>>>>> f827a50349b34975374599fb8c04cae5878955c2

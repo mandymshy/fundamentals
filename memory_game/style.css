@@ -37,13 +37,17 @@ h2{
 	background-color: #00A6B3;
 	padding: 20px;
 	margin: 0px;
+<<<<<<< HEAD
 
+=======
+>>>>>>> f827a50349b34975374599fb8c04cae5878955c2
 }
 p {
   font-family: "Droid Serif", serif;
   line-height: 26px;
   font-size: 18px;
 }
+<<<<<<< HEAD
 a{
 	font-family: "Railway";
 	color: #F15B31;
@@ -56,6 +60,10 @@ a{
 }
 a:hover{
 	border-color: white;
+=======
+a:hover{
+	color: white;
+>>>>>>> f827a50349b34975374599fb8c04cae5878955c2
 }
 
 footer{
